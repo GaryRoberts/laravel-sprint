@@ -1,2 +1,2 @@
-# laravel-starter-pack
+# Laravel Sprint
 Algorithm to assist with Laravel development by carrying out command tasks to kick off a project using algorithms
